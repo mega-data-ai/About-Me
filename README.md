@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Meghana
-👀 I am a self taught Data Scientist and Data Analyst. I have a Master's in Electrical Engineering. 
+👀 I am a Data Scientist and Data Analyst. I have a Master's in Electrical Engineering. 
 I have had wonderful opportunities in my past work experiences to hone my Data Analysis and Data Science skills through projects as well.
 - 🌱 I’m actively learning and improving my skills in Python, Machine Learning, Statistics and Data Science, AI and more related areas.
 
