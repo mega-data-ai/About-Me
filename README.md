@@ -7,11 +7,6 @@
 
 👨‍💻 All of my bootcamp projects and personal projects are available at <a href="https://github.com/megabagem?tab=repositories">Repositories</a>
 
-## 🔧 Skills & Tools  
-- 🧠 **Machine Learning & AI** – Scikit-Learn, TensorFlow  
-- 📊 **Data Analytics** – Python, SQL, Pandas, NumPy, Matplotlib, Seaborn  
-- 📈 **Business & Product Analytics** – A/B Testing, Experimentation, Forecasting  
-
 ### Connect with me
 📫 <a href="https://www.linkedin.com/in/bgem/">LinkedIn</a>
 
@@ -20,4 +15,9 @@
 - 🧠 **Machine Learning & AI** – Scikit-Learn, TensorFlow, PyTorch  
 - 🏗 **Big Data & Cloud** – AWS, GCP, Databricks, Spark  
 - ⚙️ **MLOps & Deployment** – Docker, FastAPI, Streamlit  
+
+## 🔧 Skills & Tools  
+- 🧠 **Machine Learning & AI** – Scikit-Learn, TensorFlow  
+- 📊 **Data Analytics** – Python, SQL, Pandas, NumPy, Matplotlib, Seaborn  
+- 📈 **Business & Product Analytics** – A/B Testing, Experimentation, Forecasting  
 --->
