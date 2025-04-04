@@ -5,7 +5,7 @@
 
 🔍 Interested in **real-world applications of data science** in ecommerce, business, healthcare, finance and more. 
 
-🌱 I’m actively learning and improving my skills in Python, Machine Learning, Statistics and Data Science, AI and more related areas. I have had wonderful opportunities to hone my Data Analysis and Data Science skills through numerous projects.
+🌱 I’m actively learning and improving my skills in SQL, Python, Machine Learning, Statistics and Data Science, AI and more related areas. I have had wonderful opportunities to hone my Data and Business Analysis, and Data Science skills at work, and through numerous projects.
 
 👨‍💻 All of my projects are available at <a href="https://github.com/megabagem?tab=repositories">Repositories</a>
 
