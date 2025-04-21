@@ -10,7 +10,7 @@
 👨‍💻 All of my projects are available at <a href="https://github.com/megabagem?tab=repositories">Repositories</a>
 
 ### Connect with me
-📫 <a href="https://www.linkedin.com/in/bgem/">LinkedIn</a>
+📫 <a href="https://www.linkedin.com/in/megabagem/">LinkedIn</a>
 
 
 <!---
